@@ -1,0 +1,106 @@
+{
+    "frases": [
+      {
+        "id": 1,
+        "texto": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
+        "autor": "John Lennon",
+        "tema": "vida"
+      },
+      {
+        "id": 2,
+        "texto": "Pienso, luego existo.",
+        "autor": "René Descartes",
+        "tema": "filosofía"
+      },
+      {
+        "id": 3,
+        "texto": "La imaginación lo es todo. Es la vista previa de las próximas atracciones de la vida.",
+        "autor": "Albert Einstein",
+        "tema": "inspiración"
+      },
+      {
+        "id": 4,
+        "texto": "No hay camino para la paz, la paz es el camino.",
+        "autor": "Mahatma Gandhi",
+        "tema": "paz"
+      },
+      {
+        "id": 5,
+        "texto": "Sé tú el cambio que quieres ver en el mundo.",
+        "autor": "Mahatma Gandhi",
+        "tema": "motivación"
+      },
+      {
+        "id": 6,
+        "texto": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+        "autor": "Nelson Mandela",
+        "tema": "educación"
+      },
+      {
+        "id": 7,
+        "texto": "El conocimiento es poder.",
+        "autor": "Francis Bacon",
+        "tema": "educación"
+      },
+      {
+        "id": 8,
+        "texto": "Lo que no te mata, te hace más fuerte.",
+        "autor": "Friedrich Nietzsche",
+        "tema": "resiliencia"
+      },
+      {
+        "id": 9,
+        "texto": "Haz lo que puedas, con lo que tengas, donde estés.",
+        "autor": "Theodore Roosevelt",
+        "tema": "acción"
+      },
+      {
+        "id": 10,
+        "texto": "El único límite a nuestros logros de mañana es nuestras dudas de hoy.",
+        "autor": "Franklin D. Roosevelt",
+        "tema": "motivación"
+      },
+      {
+        "id": 11,
+        "texto": "La única forma de hacer un gran trabajo es amar lo que haces.",
+        "autor": "Steve Jobs",
+        "tema": "trabajo"
+      },
+      {
+        "id": 12,
+        "texto": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+        "autor": "Eleanor Roosevelt",
+        "tema": "inspiración"
+      },
+      {
+        "id": 13,
+        "texto": "Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.",
+        "autor": "Mahatma Gandhi",
+        "tema": "vida"
+      },
+      {
+        "id": 14,
+        "texto": "El arte de vencer se aprende en las derrotas.",
+        "autor": "Simón Bolívar",
+        "tema": "resiliencia"
+      },
+      {
+        "id": 15,
+        "texto": "Solo sé que no sé nada.",
+        "autor": "Sócrates",
+        "tema": "filosofía"
+      },
+      {
+        "id": 16,
+        "texto": "El hombre está condenado a ser libre.",
+        "autor": "Jean-Paul Sartre",
+        "tema": "existencialismo"
+      },
+      {
+        "id": 17,
+        "texto": "La libertad no es digna de tener si no incluye la libertad de cometer errores.",
+        "autor": "Mahatma Gandhi",
+        "tema": "libertad"
+      }
+    ]
+  }
